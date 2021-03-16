@@ -3450,7 +3450,7 @@ break
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnFAocqaur5ZX1DPN6ZGP8PJy2cNppas_gYA&usqp=CAU`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '.......'})
 					break
-				case 'loli1':
+				case 'loli987':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://i.imgur.com/iphQUGi.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'hmm, então quer ver loli?'})
@@ -3465,7 +3465,7 @@ break
 					buffer = await getBuffer(`https://i.imgur.com/7VL9cFf.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Bom dia, vcs sao fodas ❤️'})
 					break
-				case 'boatarde':
+				case 'boatarrde':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://i.imgur.com/JaO3yoV.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Boa tarde, rapeize 😎👍'})
